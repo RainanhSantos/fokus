@@ -28,12 +28,6 @@ Ideal para estudantes e profissionais que precisam gerenciar compromissos, entre
 
 ---
 
-## 📷 Capturas de Tela
-
-*Adicione aqui imagens do app, como telas de tarefas, calendário, notificações etc.*
-
----
-
 ## 🌍 Idiomas Suportados
 
 - 🇧🇷 Português
@@ -48,21 +42,6 @@ Ideal para estudantes e profissionais que precisam gerenciar compromissos, entre
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-- Kotlin
-- Android Jetpack (Room, ViewModel, LiveData, Navigation)
-- Material Design
-- Bibliotecas: 
-  - Material Dialogs
-  - Konfetti
-  - ExpandableBottomBar
-  - Moshi
-  - Okio
-  - AboutLibraries
-  - CalendarView
-
----
 
 ## 📦 Instalação
 
